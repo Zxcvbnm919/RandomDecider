@@ -1,0 +1,26 @@
+{
+  "name": "随机决策工具",
+  "short_name": "随机决策",
+  "description": "离线、单机的随机决策辅助工具",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#EAF4FD",
+  "theme_color": "#1377DB",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
