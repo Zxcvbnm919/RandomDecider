@@ -1,0 +1,26 @@
+node_modules/
+dist/
+release/
+data/
+.pnpm-store/
+.test-build/
+.edge-profile*/
+build-electron.log
+_acl-recovery/
+*.log
+_shot-*.png
+_cdp*.cjs
+_pwa.cjs
+_serve.cjs
+
+# 发布整理目录：包含源码副本和 260MB 发行包，不进源码仓库
+/随机决策工具-1.0/
+
+# 内部需求资料/设计参考，不进入源码仓库
+/说明.md
+/需求疑问清单.md
+/发布清单-v1.0.md
+/对照表.xlsx
+/页面内容.txt
+/主题示例图片*.png
+/背景图设置参考_*.png
